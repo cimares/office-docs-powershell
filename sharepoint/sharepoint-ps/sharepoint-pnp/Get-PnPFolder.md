@@ -19,7 +19,7 @@ Get-PnPFolder -Url <String>
 ```
 
 ## DESCRIPTION
-Retrieves a folder if it exists. Use Ensure-PnPFolder to create the folder if it does not exist.
+Retrieves a folder if it exists. Use Resolve-PnPFolder to create the folder if it does not exist (NB: the Ensure-PnPFolder cmdlet has been deprecated).
 
 ## EXAMPLES
 
